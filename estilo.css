@@ -1,0 +1,129 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0;
+}
+main{
+    width: 980px;
+    margin: auto;
+    padding: auto;
+}
+.secao-1 {
+    background-color: #afddfb;
+}
+.secao-1 img {
+    width: 250px;
+}
+.secao-1 p {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.secao-1 a{
+    font-size: 18px;
+    color: #1d1d1d;
+    text-decoration: none;
+    padding: 5px;
+    margin: 0 10px;
+    border-bottom: solid 2px #1d1d1d;
+}
+.secao-2{
+    margin-top: 50px;
+    padding: 0;
+}
+.secao-2 img {
+    border: 2px solid black;
+    width: 700px;
+}
+.secao-3 h2{
+    color:#1d1d1d;
+    margin-bottom: 5px;
+}
+.secao-3 h3{
+    color:#1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+.secao-3 img {
+    border: 2px solid black;
+    width: 450px;
+}
+.secao-3 p{
+    font-size: 18px;
+    line-height: 28px;
+}
+.azul {
+    color: #1d80c1;
+    font-weight: bold;
+}
+.secao-4 {
+    background-color: #1d80c1;
+}
+.secao-4 h3{
+    color: white;
+    font-size: 28px;
+    line-height: 42px;
+}
+.secao-4 p {
+    color: white;
+    line-height: 42px;
+    font-size: 22px;
+}
+.amarelo {
+    color:yellow;
+    font-weight: bold;
+}
+.lita{
+    margin: 40px auto 40px;
+    color: white;
+    width: 135px;
+}
+li{
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+}
+.secao-5 h3{
+    color:#1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+    font-size: 30px;
+}
+.secao-5 img {
+    width: 400px;
+    border: 2px solid black;
+}
+.secao-5 p {
+    font-size: 18px;
+    line-height: 28px;
+}
+.secao-5 a {
+    text-decoration: none;
+    color:#1d80c1;
+}
+.secao-6{
+    background-color: #1d80c1;
+}
+.secao-6 h3{
+    margin-top: 0;
+    font-weight: normal;
+    font-size: 30px;
+    color: white;
+}
+.texto {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.listap {
+    font-size: 18px;
+    background-color: white;
+    margin: 40px auto;
+    border-radius: 5px;
+    padding: 2px 5px;
+    width: 210px;
+}
